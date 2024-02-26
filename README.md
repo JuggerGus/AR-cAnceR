@@ -1,2 +1,2 @@
 # AR cAnceR
-En este documento se describir  el desarrollo de un modelado 3D sobre realidad aumentada enfocado a la educación y a la divulgación que trata de explicar el proceso del cáncer de mama.
+This paper describes the development of a 3D modeling on augmented reality focused on education and outreach that tries to explain the process of breast cancer.
